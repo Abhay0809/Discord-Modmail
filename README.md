@@ -18,5 +18,3 @@ Always take a backup of your `db/data.sqlite` file before updating the bot.
 * [🤖 Commands](docs/commands.md)
 * [📋 Snippets](docs/snippets.md)
 * [🧩 Plugins](docs/plugins.md)
-* [📌 Release notes](CHANGELOG.md)
-* [📚 **Community Guides & Resources**](https://github.com/Dragory/modmailbot-community-resources)
