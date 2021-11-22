@@ -16,4 +16,4 @@ Always take a backup of your `db/data.sqlite` file before updating the bot.
 * [📋 Snippets](docs/snippets.md)
 * [🧩 Plugins](docs/plugins.md)
 
-## TODOS
+<!-- ## TODOS -->
