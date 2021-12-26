@@ -1,6 +1,6 @@
 @echo off
 
-echo Installing/updating bot dependencies
+echo Installing/updating bot's dependencies
 call npm ci --only=production --loglevel=warn >NUL
 
 if NOT ["%errorlevel%"]==["0"] (
