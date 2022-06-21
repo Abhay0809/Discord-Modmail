@@ -1,4 +1,4 @@
-# Modmail for Discord
+# Modmail Bot for Discord
 
 Modmail Bot is a bot for [Discord](https://discord.com/) that allows users to DM the bot to contact the server staffs
 without messaging them individually or pinging them publically on the server.
