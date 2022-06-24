@@ -9,7 +9,6 @@ To the user, the entire process happens in direct messages with the bot.
 
 ## Getting started
 * **[🛠️ Setting up the bot](docs/setup.md)**
-* **[✨ Updating the bot](docs/updating.md)**
 * **[🙋 Frequently Asked Questions](docs/faq.md)**
 * [📝 Configuration](docs/configuration.md)
 * [🤖 Commands](docs/commands.md)
