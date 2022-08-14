@@ -4,7 +4,7 @@ Modmail Bot is a bot for [Discord](https://discord.com/) that allows users to DM
 These DMs get relayed to modmail *threads*, channels where staff members can reply to and talk with the user.
 To the user, the entire process happens in direct messages with the bot.
 
-`Note: Always take a backup of your "db/data.sqlite" file before updating the bot.`
+`Note: Always take a backup of your "db/data.sqlite" files before updating the bot.`
 
 ## Getting started
 * **[🛠️ Setting up the bot](docs/setup.md)**
