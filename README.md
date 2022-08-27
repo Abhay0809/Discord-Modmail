@@ -14,4 +14,4 @@ To the user, the entire process happens in direct messages with the bot.
 * [📋 Snippets](docs/snippets.md)
 * [🧩 Plugins](docs/plugins.md)
 
-<!-- ## TODOS -->
+
